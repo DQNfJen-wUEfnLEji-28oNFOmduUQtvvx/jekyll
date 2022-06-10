@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Easy Markdown to Github Pages
 
 ## Introduction
